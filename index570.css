@@ -1,0 +1,926 @@
+@media(min-width:425px) and (max-width:1000px)
+{
+    .first-nav-bar
+    {
+        display: none;
+    }
+    .fb-links 
+    {
+        display: flex;
+    }
+    .first-nav-bars 
+    {
+        height: 50px;
+        gap: 0px;
+        border: 0px 0px 0.5px 0px;
+        opacity: 0px;
+
+        background: #272727;
+    }
+    .call-us h6
+    {
+        width: 239px;
+        height:34px;
+        top: 11px;
+        left: 120px;
+        gap: 0px;
+        opacity: 0px;
+        font-family:Poppins;
+        font-size:15px;
+        font-weight: 500;
+        line-height:40px;
+        text-align:end;
+        color:white;
+
+    }
+    .links 
+    {
+        margin: 0;
+    }
+    .facebook 
+    {
+        width: 8px;
+        height:24px;
+        top: 13px;
+        left: 1234px;
+        gap: 0px;
+        opacity: 0px;
+        font-size: 15px;
+        border:1px solid white;
+        padding:4px 8px;
+        border-radius:50px;
+        background-color: white;
+        color:black;
+    }
+    .twitter 
+    {
+        width:8px;
+        height:12px;
+        top: 14px;
+        left: 1267px;
+        gap: 0px;
+        opacity: 0px;
+        font-size:15px;
+        border:1px solid white;
+        padding:4px 8px;
+        border-radius:30px;
+        background-color: white;
+        color:black;
+    }
+    .pinterest 
+    {
+        width:8px;
+        height:12px;
+        top: 15px;
+        left: 1300px;
+        gap: 0px;
+        opacity: 0px;
+        font-size:15px;
+        border:1px solid white;
+        padding:4px 8px;
+        border-radius:50px;
+        background-color: white;
+        color:black;
+    }
+
+    .second-nav-bar img 
+    {
+        width: 194px;
+        height: 78px;
+        top: 47px;
+        left: 112px;
+        gap: 0px;
+        opacity: 0px;
+
+    }    
+    .home a 
+    {
+        width:48px;
+        height:45px;
+        top: 72px;
+        left: 685px;
+        gap: 0px;
+        opacity: 0px;
+        font-family:Poppins;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 24.04px;
+        text-align: left;
+        color: #0F403A;
+    }
+    .aboutus a
+    {
+        width:120px;
+        height:45px;
+        top: 72px;
+        left: 775px;
+        gap: 0px;
+        opacity: 0px;
+        font-family:Poppins;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 24.04px;
+        text-align: left;
+        color: #0F403A;
+    }
+    
+    .contactus a
+    {
+        width:130px;
+        height:45px;
+        top: 72px;
+        left: 890px;
+        gap: 0px;
+        opacity: 0px;
+        font-family:Poppins;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 24.04px;
+        text-align: left;
+        color: #0F403A;               
+    }
+    .booknow a 
+    {
+      text-decoration: none;
+    }
+    
+
+    .booknow button 
+    {
+        width: 165px;
+        height: 39px;
+        top: 86px;
+        left: 1245px;
+        gap: 0px;
+        border-radius: 19.5px;
+        opacity: 0px;
+        background-color:#0CC0F2;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 400;
+        line-height:20px;
+        text-align:center;
+        color:white;
+    }
+
+    /**/
+    .img-slide 
+    {
+        width:100%;
+        height:autopx;
+        gap: 0px;
+        opacity: 0px;
+    }
+    .captionslide h1 
+    {
+        position: absolute;
+        width:240px;
+        height: 64px;
+        top:10px;
+        left:80px;
+        gap: 0px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 90px;
+        text-align:center;
+        opacity: 0px;
+        color:white;
+    }
+    
+    .captionslide h2
+    {
+        position: absolute;
+        width:400px;
+        height: 30px;
+        top:80px;
+        left:10px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Poppins;
+        font-size:15px;
+        font-weight: 500;
+        line-height: 30px;
+        text-align:center;
+        color:white;        
+    }
+    .captionslide .hr-orange 
+    {
+        position: absolute;
+        width:100px;
+        height:2px;
+        top:140px;
+        left:160px;
+        gap: 0px;
+        opacity:100;
+        background: #F26522;
+    }
+    .captionslide .carousel-para1 
+    {
+        position: absolute;
+        width:340px;
+        height: 45px;
+        top:170px;
+        left:40px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Poppins;
+        font-size:14px;
+        font-weight: 400;
+        line-height:24px;
+        text-align: left;
+        color:white;        
+    }
+    .captionslide .carousel-para2 
+    {
+        position: absolute;
+        width:300px;
+        height: 35px;
+        top:200px;
+        left:80px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Poppins;
+        font-size:14px;
+        font-weight: 600;
+        line-height: 34.5px;
+        text-align:left;
+        color:white;        
+    }
+    /**/
+    .book-your-service 
+   {
+    width:280px;
+    height:500px;
+    top:30px;
+    left:0px;
+    gap: 0px;
+    border-radius: 24px;
+    opacity: 0px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-left: 0px;
+   }
+   .book-heading h1 
+   {
+    margin-top:30px;
+    width:300px;
+    height: 35px;
+    top: 730px;
+    left: 600px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 800;
+    line-height: 34.5px;
+    text-align: center;
+    color:black;
+   }
+   .book-form
+   {
+    display: flex;
+    width:300px;
+   }
+   .book-form label 
+   {
+
+    width: 200px;
+    height: 30px;
+    top: 809px;
+    left: 177px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align:left;
+    color: #999999;    
+   }
+   .book-form input 
+   {
+    width:350px;
+    height: 47px;
+    top: 844px;
+    left: 178px;
+    gap: 0px;
+    border-radius: 7px;
+    opacity: 0px;
+    border:none;
+    background-color: #EBEBEB;
+   }
+   .book-sendmessage button 
+   {
+    width:380px;
+    height: 50px;
+    top: 911px;
+    left: 611px;
+    gap: 0px;
+    border-radius: 66px;
+    opacity: 0px;
+    background-color:#0CC0F2;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align:center;
+    color:white;
+    margin-left: 20px;
+   }
+
+   .why-choose
+   {
+    background: linear-gradient(121.36deg, #1E80B8 16.03%, #033451 74.54%);
+    width:100%;
+    height:2200px;
+    gap: 0px;
+    opacity: 0px;
+    top:0px;
+    padding-top: 30px;
+   }
+   .why-choose-heading h1
+   {
+    width:400px;
+    height: 60px;
+    top:1000px;
+    left: 569px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    margin-top: 30px;
+    color:white;    
+   }
+
+   /* .card-style 
+   {
+    border:3px solid transparent;
+    position: relative;
+    border-radius:15px;
+    border-image: linear-gradient(to right,black,white);
+     border-image-slice:1;
+     padding: 3px;
+    
+   } */
+  
+   .why-choose-card
+   {
+    background-color:#242E34;
+    width:100%;
+    height:220px;
+    top: 1199px;
+    left:30px; 
+    gap: 0px;
+    opacity: 0px;
+    border:0.5px solid transparent;
+    border-radius:5px;
+    border-image: linear-gradient(to right,rgb(237, 89, 89),white);
+     border-image-slice:1;
+    
+    
+    /* border-image: linear-gradient(to right,black 80%, white 50%); */
+    /* border: 1px solid; */
+
+    
+    
+
+    /*border-radius: 10px;*/
+
+   }
+   .why-choose-title 
+   {
+    display: flex;
+    
+   }
+   .why-choose-title img 
+   {
+
+    width:60px;
+    height:60px;
+    top: 1233px;
+    left: 115px;
+    gap: 0px;
+     border-radius: 6px; 
+    opacity: 0px;
+    margin: 10px;
+   }
+   .why-choose-title h5 
+   {
+    width: 262px;
+    height: 54px;
+    top: 1231px;
+    left: 185px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align:left;
+    color:white;   
+    margin-left:20px;
+    margin-top:20px; 
+   }
+   .why-choose-text 
+   {
+    width: 300px;
+    height: 72px;
+    top: 1305px;
+    left: 109px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF; 
+    margin-top:15px;
+    margin-left: 10px;   
+   }
+
+   /**/
+   .experience h1
+   {
+    width:400px;
+    height: 60px;
+    top: 1912px;
+    left: 568px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size:30px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    color: #11181C;    
+   }
+   div.flip-3d 
+   {
+    margin-left:60px;
+    position: relative;
+   }
+   div.flip-3d figcaption.aaa 
+   {
+    position: absolute;
+    top:170px;
+    left:30px;
+    width: 238px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    color:white;    
+   }
+   div.flip-3d figcaption.rotate-print
+   {
+    position: absolute;
+    top:240px;
+    left:30px;
+    width: 238px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight:500;
+    line-height: 30px;
+    text-align: center;
+    color:white;    
+   }
+
+   .repair 
+   {
+    height:500px;
+    top: 2501px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(93.14deg, rgba(0, 240, 255, 0.2) -9.1%, #FFFFFF 47.56%, #C9FFFF 104.22%);
+   }
+   .repair-heading2 h2
+   {
+    width:400px;
+    height: 42px;
+    top: 2540px;
+    left: 524px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 42px;
+    text-align: center;
+    color: #0CC0F2;   
+    padding-top:40px;
+    margin-left:10px;
+   }
+   .repair-heading1 h1
+   {
+    width:400px;
+    height: 45px;
+    top: 2577px;
+    left: 472px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    color: #000000; 
+    padding-top:50px;  
+   }
+   .hr-blue 
+   {
+    width:140px;
+    height:5px;
+    top: 2629px;
+    left: 690px;
+    gap: 0px;
+    opacity:100;
+    background: #0CC0F2;
+    margin-left:130px;
+    margin-top:110px;
+   }
+    .repair-para p
+   {
+    width:400px;
+    height: 52px;
+    top: 2646px;
+    left: 186px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 25.5px;
+    text-align: center;
+    color: #5E5E5E;
+    padding-top:20px;   
+   }
+
+   .brand-container 
+   {
+        width:100%;
+        height:400px;
+   }
+   .brands h2 
+   {
+    width:400px;
+    height: 60px;
+    top: 2842px;
+    left: 514px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    color: #11181C;    
+   }
+   /* .brand-image img 
+   {
+    width: 189.69px;
+    height:25px;
+    top: 2943px;
+    left: 74px;
+    gap: 0px;
+    opacity: 0px;
+   } */
+
+   
+
+   .carousel-cell img {
+    max-height: 100px;
+    margin: 0 auto;
+
+  }
+  /* .carousel {
+    background: #EEE;
+  } */
+  .carousel-cell {
+    width:100%;
+    padding: 10px;
+    padding-left:120px;
+    margin-top: 50px;
+  }
+
+  /**/
+  .footer-part
+   {
+    width:100%;
+    height:650px;
+    top: 3136px;
+    gap: 0px;
+    opacity: 0px;
+    background: #11181C;
+    border:1px solid white;
+   }
+   /* .footer-1 
+   {
+    padding-top:50px;
+    padding-left: 20px;
+   } */
+   .footer-1 img 
+   {
+        width: 247px;
+        height: 104px;
+        top: 5913px;
+        left: 120px;
+        gap: 0px;
+        opacity: 0px;
+   }
+   .footer-1 address 
+   {
+        width:300px;
+        height: 140px;
+        top: 6030px;
+        left: 120px;
+        gap: 0px;
+        opacity: 0px;
+        font-family:Poppins;
+        font-size:25px;
+        font-weight: 500;
+        line-height:30.89px;
+        text-align: left;
+        color: #FFFFFF;
+        margin-top: 10px;    
+   }
+   .footer-2 ul 
+   {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+   }
+   .home-footer 
+   {
+    text-decoration: none;
+        width:300px;
+        height: 39px;
+        left:60px;
+        gap: 0px;
+        opacity: 0px;
+        font-family:Poppins;
+        font-size:20px;
+        font-weight:500;
+        line-height: 39.3px;
+        text-align:left;
+        color: #FFFFFF;   
+   }
+   .footer-3 ul
+   {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+   }
+   .call-us-footer
+   {
+    text-decoration: none;
+        width:300px;
+        height: 39px;
+        left:60px;
+        gap: 0px;
+        opacity: 0px;
+        font-family:Poppins;
+        font-size:20px;
+        font-weight:500;
+        line-height: 39.3px;
+        text-align:left;
+        color: #FFFFFF;     
+   }
+   .footer-4 ul 
+   {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+   }
+   .email-footer 
+   {
+        text-decoration: none;
+        width:300px;
+        height: 39px;
+        left:60px;
+        gap: 0px;
+        opacity: 0px;
+        font-family:Poppins;
+        font-size:20px;
+        font-weight:500;
+        line-height: 39.3px;
+        text-align:left;
+        color: #FFFFFF;     
+   }
+   /**/
+   .last-line
+   {
+    width:100%;
+    height:80px;
+    background: #11181C;
+   }
+   .last-line p 
+   {
+    width:400px;
+    height:40px;
+    top: 3480px;
+    left: 509px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    color:white;    
+   }
+
+   /**/
+   .aboutus-repair 
+  {
+    width:100%;
+    height:320px;
+    top: 161px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(93.14deg, rgba(0, 240, 255, 0.2) -9.1%, #FFFFFF 47.56%, #C9FFFF 104.22%);
+
+  }
+   .about-us-content
+  {
+    width:100%;
+    height:2000px;
+    top: 400px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(121.36deg, #1E80B8 16.03%, #033451 74.54%);
+
+  }
+  .aboutus-para
+  {
+    width:400px;
+    height:600px;
+    top: 512px;
+    left: 743px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size:16px;
+    font-weight: 400;
+    line-height: 31.5px;
+    text-align: left;
+    color:white;
+    padding-top: 20px;
+    margin-top:50px;
+  }
+  .repair-heading-aboutus h2 
+  {
+    width:400px;
+    height:10px;
+    top: 313px;
+    left: 642px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    margin-top: 20px;
+    color: #000000;
+  }
+  .repair-para-aboutus p
+  {
+    width:400px;
+    height: 45px;
+    top: 313px;
+    left: 642px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    color: #000000;    
+  }
+  .aboutus-heading1 
+  {
+    width:400px;
+    height: 45px;
+    top: 2577px;
+    left: 472px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    color: #000000; 
+    padding-top:50px;
+  }
+
+  .contactus-repair 
+  {
+    width:100%;
+    height:150px;
+    top: 161px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(93.14deg, rgba(0, 240, 255, 0.2) -9.1%, #FFFFFF 47.56%, #C9FFFF 104.22%);
+
+  }
+  .contact-section {
+            
+    border-radius: 24px;
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .contact-form h2 
+  {
+    
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 800;
+    line-height: 34.5px;
+    text-align: center;
+    color:black;
+  }
+  .contact-form, .contact-info {
+    flex: 1;
+    min-width: 300px;
+    margin: 20px;
+  }
+  .contact-form {
+    
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding:40px;
+    border-radius: 10px;
+  }
+  .contact-form input 
+  {
+    width:280px;
+    height: 45.15px;
+    top: 489.34px;
+    left: 188px;
+    gap: 0px;
+    border-radius: 7px;
+    opacity: 0px;
+    background: #EBEBEB;
+    border:none;
+  }
+  .contact-form textarea 
+  {
+    width: 280px;
+    height:80.15px;
+    top: 489.34px;
+    left: 188px;
+    gap: 0px;
+    border-radius: 7px;
+    opacity: 0px;
+    background: #EBEBEB;
+    border:none;
+  }
+  .contact-form label 
+  {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: center;
+    color: #999999;
+  }
+  .contact-form button 
+  {
+    width: 217px;
+    height: 50px;
+    top: 1064px;
+    left: 306px;
+    gap: 0px;
+    border-radius: 66px;
+    opacity: 0px;
+    font-family: Poppins;
+    background: #0CC0F2;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align:center;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+
+}
