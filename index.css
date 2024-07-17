@@ -781,7 +781,7 @@
     transform: rotateY(.5turn) translateZ(1px);
     background: rgba(255, 255, 255, 0.9);
     text-align: center;
-    padding-top:95%;
+    padding-top:65%;
     opacity: 0.6;
     transition: 1s .5s opacity;
   }

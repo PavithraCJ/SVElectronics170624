@@ -10,7 +10,7 @@ document.getElementById('whatsappForm').addEventListener('submit', function(even
 
     console.log(name+" "+email+" "+message+" "+phone)
     let whatsappMessage = `Name: ${name}\nEmail: ${email}\nMessage: ${message}\nPhone: ${phone}\nLocation: ${location}`;
-    let whatsappUrl = `https://wa.me/+919715179095?text=${encodeURIComponent(whatsappMessage)}`;
+    let whatsappUrl = `https://wa.me/+918610490939?text=${encodeURIComponent(whatsappMessage)}`;
 
     window.open(whatsappUrl, '_blank');
 });

@@ -7,7 +7,7 @@ function sendToWhatsApp() {
     
     var message = `Name: ${name}\nPhone: ${phone}\nEmail: ${email}\nLocation: ${location}`;
     
-    var whatsappURL = `https://wa.me/+919715179095?text=${encodeURIComponent(message)}`;
+    var whatsappURL = `https://wa.me/+918610490939?text=${encodeURIComponent(message)}`;
     
     window.open(whatsappURL, '_blank');
 
